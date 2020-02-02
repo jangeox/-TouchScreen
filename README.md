@@ -1,5 +1,5 @@
 # -TouchScreen
-Resistive touch screen driving two servos that draw the image from the screen
+Arduino sketch for resistive touch screen driving two servos that draw the image from the screen
 
 [watch the video](https://www.youtube.com/watch?v=n5wATzZtE5I&t=28s)
 
